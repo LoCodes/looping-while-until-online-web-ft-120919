@@ -1,4 +1,4 @@
-def using_until
+def using_until = 
   levitation_force = 0
   until levitation_force == 10
     puts " #{using_until} until the levitation force is incremented to 10"
