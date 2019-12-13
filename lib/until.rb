@@ -1,7 +1,8 @@
 def using_until
-  levitation_force = 0
+  levitation_force = 6
+  
   until levitation_force == 10
-    puts " #{using_until} until the levitation force is incremented to 10"
+    puts ""
     levitation_force = levitation_force + 1
     
 end
